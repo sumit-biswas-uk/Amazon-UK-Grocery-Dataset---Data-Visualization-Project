@@ -10,11 +10,11 @@ In this project, we present a comprehensive approach to analysing and visualizin
 
 ## Dataset
 
-The dataset used for this project comprises historical data from Amazon UK Grocery, including various features such as product details, sales, revenue, ratings, price etc. The dataset is cleaned to handle missing values, duplicates, and outliers before being used for visualization and analysis.
+The dataset used for this project comprises historical data from Amazon UK Grocery, including various features such as product details, sales, revenue, ratings, price etc. The dataset is cleaned to handle missing values, duplicates, and outliers.
 
 ## Exploratory Data Analysis (EDA)
 
-EDA involves analysing the dataset to gain insights into its structure, distributions, and relationships between variables. Through visualizations and statistical summaries, we explore the data to understand its characteristics and identify patterns.
+EDA involves analysing the dataset to gain insights into its structure, finding amount of missing data and finding number of unique brands. Through statistical summaries, we explore the data to understand its characteristics.
 
 ## Data Visualization
 
@@ -28,6 +28,7 @@ Data cleaning focuses on identifying and correcting errors or inconsistencies in
 ## Insights and Interpretation
 
 By examining various dimensions of the dataset, we aim to uncover actionable insights that can inform marketing strategies, product development, and customer engagement initiatives.
+
 
 ## Summary and Reflections
 
@@ -45,7 +46,7 @@ The project concludes with a summary of key findings and reflections on the proc
 
 ## Acknowledgments
 
-Acknowledgments are extended to individuals, organizations, or resources that contributed to the project's success. This may include data sources, research papers, news articles and annual reports.
+Acknowledgments are extended to individuals, organizations, or resources that contributed to the project's success. This may include data sources, news articles and annual reports.
 
 ## Contact Information
 
